@@ -1,3 +1,4 @@
+import exe0.Carro;
 import javax.swing.*;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
